@@ -25,7 +25,7 @@ void ThumbnailPopup::openDiscordServerPopup(CCObject* sender){
             "No Thanks", "JOIN!",
             [this](auto, bool btn2) {
                 if (btn2) {
-                    CCApplication::sharedApplication()->openURL("https://discord.gg/GuagJDsqds");
+                    CCApplication::sharedApplication()->openURL("https://discord.gg/umPTrqmkFD");
                 }
             }
         );
@@ -38,7 +38,7 @@ void ThumbnailPopup::openDiscordServerPopup(CCObject* sender){
         "No Thanks", "JOIN!",
         [this](auto, bool btn2) {
             if (btn2) {
-                CCApplication::sharedApplication()->openURL("https://discord.gg/GuagJDsqds");
+                CCApplication::sharedApplication()->openURL("https://discord.gg/umPTrqmkFD");
             }
         }
     );

@@ -1,4 +1,4 @@
-# SUBMIT THUMBNAILS IN THE [DISCORD SERVER](https://discord.gg/GuagJDsqds)
+# SUBMIT THUMBNAILS IN THE [DISCORD SERVER](https://discord.gg/umPTrqmkFD)
 
 # Level Thumbnails
 
